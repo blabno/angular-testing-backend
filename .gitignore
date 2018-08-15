@@ -1,0 +1,11 @@
+/*.iml
+/.idea
+/.vscode
+/.history
+/db
+/target
+/node_modules
+/npm-debug.log
+/package-lock.json
+/.env.local
+/yarn-error.log
