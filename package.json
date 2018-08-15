@@ -1,0 +1,17 @@
+{
+  "name": "angular-testing-backend",
+  "version": "0.0.1-snapshot",
+  "dependencies": {
+    "bluebird": "3.5.1",
+    "elasticsearch": "15.1.1",
+    "hapi": "17.5.1"
+  },
+  "engines": {
+    "node": "8.9"
+  },
+  "private": true,
+  "scripts": {
+    "seed": "node seed",
+    "start": "node app/web.js"
+  }
+}

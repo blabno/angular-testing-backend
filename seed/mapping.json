@@ -1,0 +1,11 @@
+{
+  "quote": {
+    "dynamic": "strict",
+    "properties": {
+      "text": {
+        "type": "text",
+        "index": false
+      }
+    }
+  }
+}
