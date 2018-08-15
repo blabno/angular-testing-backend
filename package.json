@@ -13,5 +13,11 @@
   "scripts": {
     "seed": "node seed",
     "start": "node app/web.js"
+  },
+  "devDependencies": {
+    "chai": "4.1.2",
+    "http-as-promised": "2.0.1",
+    "mocha": "5.2.0",
+    "supertest": "3.1.0"
   }
 }
