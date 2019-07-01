@@ -11,6 +11,7 @@
   },
   "private": true,
   "scripts": {
+    "dev": "nodemon app/web.js",
     "seed": "node seed",
     "start": "node app/web.js"
   },
@@ -18,6 +19,7 @@
     "chai": "4.1.2",
     "http-as-promised": "2.0.1",
     "mocha": "5.2.0",
+    "nodemon": "1.19.1",
     "supertest": "3.1.0"
   }
 }
